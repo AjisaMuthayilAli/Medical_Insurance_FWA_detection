@@ -1,1 +1,2 @@
 # Medical_Insurance_FWA_detection
+It is highly important to detect Fraud, Waste and Abuse (FWA) efficiently to run the insurance company successfully. Therefore, monitoring payer adjudication to maintain a healthy revenue cycle is essential. Data scientist and machine learning techniques play an integral part in detecting odd patterns and outliers. The insurance data used in this lab was downloaded from Kaggle. Exloratory data analysis was performed and machine learning algorithms were deployed to predict and identify FWA related outliers. 
